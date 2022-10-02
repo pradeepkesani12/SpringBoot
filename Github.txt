@@ -1,5 +1,4 @@
 Request URL: https://github.com/pradeepkesani12?tab=repositories
 https://github.com/pradeepkesani12?tab=repositories/api/authentication/login?%22%20+%20%22login=kesanipradeep12&password=Kesani@1222
 https://github.com/settings/apps/new?name=octocat-github-app&description=An%20Octocat%20App&callback_urls[]=https://example.com&request_oauth_on_install=true&public=true&checks=write&events[]=check_run&events[]=check_suite
-
 jdiwydebjdf;oiulnjbckiug,./ljco;ifwlfnvfoi;in
